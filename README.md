@@ -1,6 +1,4 @@
-Certainly! Here's a template for a README file that provides an overall summary of your SQL healthcare project:
 
----
 
 # Healthcare Data Analysis Project
 
